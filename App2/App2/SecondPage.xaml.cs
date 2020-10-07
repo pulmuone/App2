@@ -17,7 +17,6 @@ namespace App2
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SecondPage : ContentPage
     {
-
         public event ReturnInfoEventHandler ReturnInfoEvent;
 
         public SecondPage()
